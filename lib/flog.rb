@@ -5,10 +5,6 @@ require 'optparse'
 require 'timeout'
 
 
-class "><asdf>
-
-end
-
 class File
   RUBY19 = "<3".respond_to? :encoding unless defined? RUBY19
 
